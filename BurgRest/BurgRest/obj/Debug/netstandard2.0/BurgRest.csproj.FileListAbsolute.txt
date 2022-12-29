@@ -1,0 +1,16 @@
+D:\mpl\BurgRest\BurgRest\bin\Debug\netstandard2.0\BurgRest.deps.json
+D:\mpl\BurgRest\BurgRest\bin\Debug\netstandard2.0\BurgRest.dll
+D:\mpl\BurgRest\BurgRest\bin\Debug\netstandard2.0\ref\BurgRest.dll
+D:\mpl\BurgRest\BurgRest\bin\Debug\netstandard2.0\BurgRest.pdb
+D:\mpl\BurgRest\BurgRest\obj\Debug\netstandard2.0\BurgRest.csproj.AssemblyReference.cache
+D:\mpl\BurgRest\BurgRest\obj\Debug\netstandard2.0\BurgRest.GeneratedMSBuildEditorConfig.editorconfig
+D:\mpl\BurgRest\BurgRest\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\mpl\BurgRest\BurgRest\obj\Debug\netstandard2.0\Views\DetailsPage.xaml.g.cs
+D:\mpl\BurgRest\BurgRest\obj\Debug\netstandard2.0\Views\LandingPage.xaml.g.cs
+D:\mpl\BurgRest\BurgRest\obj\Debug\netstandard2.0\BurgRest.AssemblyInfoInputs.cache
+D:\mpl\BurgRest\BurgRest\obj\Debug\netstandard2.0\BurgRest.AssemblyInfo.cs
+D:\mpl\BurgRest\BurgRest\obj\Debug\netstandard2.0\BurgRest.csproj.CoreCompileInputs.cache
+D:\mpl\BurgRest\BurgRest\obj\Debug\netstandard2.0\XamlC.stamp
+D:\mpl\BurgRest\BurgRest\obj\Debug\netstandard2.0\BurgRest.dll
+D:\mpl\BurgRest\BurgRest\obj\Debug\netstandard2.0\ref\BurgRest.dll
+D:\mpl\BurgRest\BurgRest\obj\Debug\netstandard2.0\BurgRest.pdb
